@@ -10,9 +10,10 @@
 	<p>Hay varias formas de demostrarlo, he aquí un par:</p>
 	<ol>
 		<li><h3>Por árboles</h3></li>
-		<p>Vamos a hacer a fuerza bruta varios escenarios a ver que sucede</p>
-		2 Negras y 2 Blancas:
-![image](https://github.com/user-attachments/assets/9433d7f8-3b3d-4fac-8a95-5cad117321af)
+		<p>Vamos a hacer a fuerza bruta varios escenarios a ver que sucede.</p>
+		<p>2 Negras y 2 Blancas:</p>
+		<img src="https://github.com/user-attachments/assets/9433d7f8-3b3d-4fac-8a95-5cad117321af">
+		<p>Como notamos, si hay la misma cantidad y además, son pares, sale Blanca al final.</p>
 		<li><h3>Por deducción</h3></li>
 		<p>La última bola depende del factor de la última pareja, si ambas son del mismo color (Blanca-Blanca o Negra-Negra), la última bola será Blanca, por lo contraria, será una Negra.</p>
 	</ol>
